@@ -17,3 +17,5 @@ conda activate myenv
 python -m pip install --upgrade pip
 pip install pandas numpy scipy matplotlib scikit-learn EMD-signal torch joblib
 ```
+
+--- to be continuous...... 20260521
