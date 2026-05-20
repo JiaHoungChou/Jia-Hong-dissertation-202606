@@ -1,4 +1,5 @@
-### *dissertation title: Cross-domain online remaining useful life prediction of lithium-ion battery cells and packs using model weight transfer and unsupervised domain adaptation*
+### *Cross-domain online remaining useful life prediction of lithium-ion battery cells and packs using model weight transfer and unsupervised domain adaptation*
+#### *Jia-Hong Chou, IM, National Taiwan University of Science and Technology*
 
 ## Package Installation Manual
 
