@@ -15,14 +15,4 @@ conda create -n myenv python=3.9
 conda activate myenv
 python -m pip install --upgrade pip
 pip install pandas numpy scipy matplotlib scikit-learn EMD-signal torch joblib
-'''bash
-
-### CPU version
-'''bash
-pip install torch
-'''bash
-
-## GPU version
-'''bash
-pip install torch --index-url https://download.pytorch.org/whl/cu121
-'''bash
+```
