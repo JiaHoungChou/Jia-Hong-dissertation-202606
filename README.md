@@ -11,5 +11,15 @@ It is recommended to create a separate virtual environment before installing the
 #### Option 1: Using Conda
 
 ```bash
-conda create -n battery_soh python=3.9
-conda activate battery_soh
+conda create -n myenv python=3.9
+conda activate myenv
+python -m pip install --upgrade pip
+pip install pandas numpy scipy matplotlib scikit-learn EMD-signal torch joblib
+
+### CPU version
+```bash
+pip install torch
+
+### GPU version
+```bash
+pip install torch --index-url https://download.pytorch.org/whl/cu121
